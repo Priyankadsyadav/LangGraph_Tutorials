@@ -40,7 +40,7 @@ while True:
         user_input = input("User: ")
         if user_input.lower() in ["quit", "exit", "q"]:
             print("Goodbye!")
-            break  # <-- this was missing
+            break
         stream_graph_updates(user_input)
     except:
         # fallback if input() is not available
