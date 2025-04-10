@@ -1,1 +1,11 @@
-
+langchain
+langchain_core
+langchain_community 
+langgraph
+langchain_groq
+typing_extensions
+typing_extensions
+python-dotenv
+streamlit
+fastapi
+uvicorn
